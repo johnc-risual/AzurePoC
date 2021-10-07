@@ -40,8 +40,9 @@ Azure Storage Explorer is a free desktop application published by Microsoft.
 
 ## Connect to the Azure Virtual Machine using Remote Desktop (Windows)
 
+- Windows Start menu:
+  - type `rdp` > press 'Enter'
 - Computer Window:
-  - Start > type `rdp` > press 'Enter'
   - Enter the computer name: ___COMPUTER_NAME___
   - Click 'Connect'
 - Credential Window:
